@@ -1,11 +1,15 @@
 package cn.johnyu.springbootdemo01.pojo;
 
+
+import com.fasterxml.jackson.annotation.JsonInclude;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
+@JsonInclude(value=JsonInclude.Include.NON_DEFAULT)
 public class Book {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
