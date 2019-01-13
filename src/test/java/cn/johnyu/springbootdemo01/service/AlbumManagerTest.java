@@ -11,7 +11,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @ContextConfiguration(classes = AppConfig.class)
 public class AlbumManagerTest {
     @Autowired
-    AlbumManger albumManger;
+    AlbumManager albumManger;
     @Test
     public void testFetchAlbumsAndSave(){
         int offset=573900;
@@ -20,9 +20,6 @@ public class AlbumManagerTest {
             offset+=100;
             System.out.println(offset+"\t:"+rs.length);
         }
-
-
-
     }
 
     /**

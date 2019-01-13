@@ -31,14 +31,11 @@ public class SingerFetcher {
     @Value("${singerList.request.body}")
     private String singerListBody;
 
-
-
-    public List<Singer> fetchSingerListSync(int offset, int curPage){
+    public List<Singer> fetchSingerListSync(int offset){
         List<Singer> singers= null;
         try {
             QueryObject queryObject=mapper.readValue(singerListBody,QueryObject.class);
             queryObject.getSingerList().getParam().put("sin",offset);
-            queryObject.getSingerList().getParam().put("cur_page",curPage);
             singerListBody=mapper.writeValueAsString(queryObject);
             RequestBody requestBody = RequestBody.create(MediaType.get("application/json"), singerListBody);
             Request request=new Request.Builder()

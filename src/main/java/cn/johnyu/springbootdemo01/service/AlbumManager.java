@@ -7,21 +7,31 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @Service
-public class AlbumManger {
+public class AlbumManager {
     @Autowired
     AlbumDao albumDao;
     @Autowired
     AlbumFetcher fetcher;
+
+    /**
+     *
+     * @param offset
+     * @param len
+     * @return 数组的length为0时，代表没有数据向数据插入
+     */
     @Transactional
     public int[] fetchAlbumsAndSave(int offset,int len){
-        List<Album> albums=fetcher.fetchAlbumListSync(offset,len);
-        int[] rs=albumDao.addAlbums(albums);
+        int[] rs=null;
+        List<Album> albums=albums=fetcher.fetchAlbumListSync(offset,len);
+        if(!albums.isEmpty()){
+            rs=albumDao.addAlbums(albums);
+        }else {
+            rs=new int[0];
+        }
         return rs;
     }
-
-
-
 }

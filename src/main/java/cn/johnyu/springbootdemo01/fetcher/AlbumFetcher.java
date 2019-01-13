@@ -24,6 +24,12 @@ public class AlbumFetcher {
     @Value("${albumlib.request.body}")
     private String albumQuery;
 
+    /**
+     * 把查询条件，拼装成为查询用的json
+     * @param offset
+     * @param len
+     * @return
+     */
     private String convertAlbumQuery(int offset,int len){
         String result= null;
         try {
@@ -37,6 +43,12 @@ public class AlbumFetcher {
         return result;
     }
 
+    /**
+     *
+     * @param offset
+     * @param len
+     * @return 当无数据时，isEmpty() 为true
+     */
     public List<Album> fetchAlbumListSync(int offset,int len){
         List<Album> albums=null;
         try {

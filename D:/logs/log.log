@@ -1,0 +1,706 @@
+[framework][17:01:07,113-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:01:07,127-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:01:49,720-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:01:49,736-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:01:51,902-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:52,059-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:52,190-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:52,315-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:52,436-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:52,551-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:52,663-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:52,771-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:52,888-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:52,997-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:53,111-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:53,228-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:53,341-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:53,455-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:53,581-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:53,700-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:53,810-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:53,921-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:54,042-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:54,153-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:54,267-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:54,381-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:54,493-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:54,606-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:54,717-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:54,830-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:54,940-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:55,351-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:55,468-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:55,581-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:55,708-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:55,826-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:55,935-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:56,044-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:56,156-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:56,271-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:56,387-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:56,503-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:56,614-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:56,730-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:56,846-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:56,957-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:57,085-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:57,193-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:57,313-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:57,428-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:57,543-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:57,656-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:57,770-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:57,884-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:57,994-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:58,108-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:58,223-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:58,338-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:58,457-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:58,572-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:58,684-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:58,796-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:58,908-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:59,021-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:59,133-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:59,248-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:59,355-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:59,477-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:59,605-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:59,723-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:59,829-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:01:59,942-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:00,056-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:00,171-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:00,283-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:00,398-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:00,512-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:00,625-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:00,736-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:00,846-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:00,947-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:01,050-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:01,163-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:01,275-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:01,391-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:01,503-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:01,614-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:01,722-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:01,834-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:01,934-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:02,044-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:02,160-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:02,272-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:02,386-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:02,504-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:02,618-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:02,737-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:02,846-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:02,955-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:03,071-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:03,183-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:03,305-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:03,440-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:03,566-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:03,832-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:03,946-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:04,068-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:04,183-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:04,299-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:04,406-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:04,517-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:04,633-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:04,757-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:04,870-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:04,995-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:05,108-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:05,219-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:05,329-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:05,439-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:05,553-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:05,676-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:05,795-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:05,905-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:06,018-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:06,129-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:06,242-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:06,354-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:06,474-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:06,588-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:06,702-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:06,813-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:06,918-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:07,025-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:07,140-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:07,252-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:02:07,373-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:singers size is :80 
+  [framework][17:06:21,053-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:06:21,068-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:06:23,369-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:23,520-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:23,653-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:23,781-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:23,914-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:24,033-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:24,150-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:24,267-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:24,390-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:24,528-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:24,651-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:24,768-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:24,898-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:25,017-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:25,149-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:25,270-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:25,393-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:25,517-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:25,646-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:25,763-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:25,890-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:26,017-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:26,151-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:26,275-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:26,402-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:26,522-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:26,643-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:26,764-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:26,880-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:26,998-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:27,124-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:27,245-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:27,361-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:27,481-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:27,603-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:27,720-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:27,839-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:27,956-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:28,070-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:28,190-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:28,303-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:28,605-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:28,722-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:28,842-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:28,973-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:29,115-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:29,231-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:29,362-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:29,484-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:29,607-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:29,736-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:29,863-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:30,018-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:30,144-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:30,263-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:30,381-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:30,501-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:30,622-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:30,744-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:30,888-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:31,008-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:31,138-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:31,261-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:31,388-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:31,509-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:31,636-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:31,796-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:31,919-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:32,037-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:32,157-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:32,281-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:32,406-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:32,528-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:32,644-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:32,766-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:32,899-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:33,016-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:33,139-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:33,261-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:33,387-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:33,508-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:33,637-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:33,774-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:33,906-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:34,025-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:34,150-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:34,276-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:34,397-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:34,520-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:34,641-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:34,769-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:34,892-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:35,016-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:35,135-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:35,250-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:35,367-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:35,494-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:35,635-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:35,756-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:35,875-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:36,115-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:36,235-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:36,342-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:36,447-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:36,547-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:36,659-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:36,773-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:36,885-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:36,988-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:37,092-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:37,199-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:37,299-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:37,406-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:37,516-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:37,635-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:37,761-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:37,865-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:37,980-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:38,083-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:38,194-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:38,297-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:38,398-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:38,505-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:38,606-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:38,710-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:38,812-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:38,914-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:39,018-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:39,123-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:39,234-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:39,339-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:39,445-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:39,549-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:39,673-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:39,830-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:39,933-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,032-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,139-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,250-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,353-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,456-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,564-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,666-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,767-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,876-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:40,980-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:41,079-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:41,186-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:41,285-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:41,398-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:41,501-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:41,613-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:41,718-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:41,817-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:41,922-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:42,020-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:42,130-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:42,235-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:42,344-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:42,446-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:42,557-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:42,686-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:42,831-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:42,939-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,044-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,147-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,253-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,356-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,457-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,557-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,665-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,772-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,877-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:43,985-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:44,090-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:44,197-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:44,309-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:44,420-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:44,527-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:44,640-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:44,746-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:44,850-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:44,962-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:45,085-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:45,183-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:45,287-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:45,396-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:45,501-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:45,610-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:45,723-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:45,839-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:45,949-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:46,075-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:46,185-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:46,306-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:46,419-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:46,528-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:46,945-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:47,050-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:47,162-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:47,429-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:47,547-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:47,665-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:47,776-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:47,896-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:48,028-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:48,138-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:48,249-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:48,376-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:48,494-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:48,615-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:48,732-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:48,846-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:48,959-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:49,092-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:49,209-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:49,327-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:49,443-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:49,560-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:49,677-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:49,792-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:49,909-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:50,029-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:50,142-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:50,261-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:50,377-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:50,495-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:50,618-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:50,735-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:06:50,848-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 {} :80 
+  [framework][17:08:18,861-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:08:18,877-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:08:21,083-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:21,223-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:21,346-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:21,473-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:21,601-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:21,719-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:21,838-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:21,962-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:22,085-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:22,204-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:22,325-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:22,444-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:22,561-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:22,687-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:22,809-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:22,930-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:23,050-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:23,174-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:23,295-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:23,416-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:23,536-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:23,672-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:23,785-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:23,899-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:24,016-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:24,143-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:24,254-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:24,383-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:24,501-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:24,616-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:24,743-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:24,862-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:24,990-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:25,108-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:25,226-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:25,348-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:25,464-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:26,029-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:27,129-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:28,023-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:28,141-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:28,256-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:28,379-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:28,493-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:28,624-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:28,744-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:28,868-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:28,988-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:29,106-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:29,220-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:29,339-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:29,458-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:29,577-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:29,693-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:29,812-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:29,931-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:30,051-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:30,188-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:30,304-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:30,420-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:30,534-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:30,653-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:30,777-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:30,893-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:31,016-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:31,134-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:31,249-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:31,370-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:31,487-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:31,604-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:31,722-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:31,846-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:31,960-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:32,075-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:32,190-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:32,307-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:32,426-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:32,547-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:32,704-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:32,830-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:32,948-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:33,062-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:33,180-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:33,298-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:33,426-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:33,575-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:33,702-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:33,820-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:33,939-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:34,060-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:34,210-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:34,333-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:34,453-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:34,569-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:34,682-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:34,806-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:34,921-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:35,036-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:35,147-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:35,259-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:35,518-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:35,627-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:35,738-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:35,854-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:35,968-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:36,083-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:36,194-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:36,301-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:36,411-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:36,526-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:36,642-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:36,776-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:08:36,888-cn.johnyu.springbootdemo01.dao.SingerDaoImpl.addSingers(SingerDaoImpl.java:38)][INFO]:歌手的数量为 80 : 
+  [framework][17:11:27,893-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:11:27,910-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:11:32,805-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:30)][INFO]:============== 共抓取唱片 《0》张 ============ 
+  [framework][17:12:52,434-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:12:52,450-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:12:54,499-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:54,646-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:54,860-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:55,056-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:55,192-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:55,329-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:55,460-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:55,609-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:55,750-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:55,885-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:56,031-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:56,152-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:56,304-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:56,447-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:56,570-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:56,696-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:56,818-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》张,最后一张唱片名称 《》 
+  [framework][17:12:56,931-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《38》张,最后一张唱片名称 《》 
+  [framework][17:12:57,045-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:30)][INFO]:============== 共抓取唱片 《0》张 ============ 
+  [framework][17:13:14,709-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:13:14,726-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:13:16,713-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Ella and Louis 
+  [framework][17:13:16,863-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Plays Duke Ellington 
+  [framework][17:13:17,073-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Handel: Concerti grossi, Op.6 Nos. 6-9 
+  [framework][17:13:17,278-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Rubinstein Collection, Vol. 43  Works by Ravel, Poulenc, Chabrier, Debussy 
+  [framework][17:13:17,413-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Steady Mobbin' 
+  [framework][17:13:17,560-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Vocals 
+  [framework][17:13:17,705-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Disco Boogie Party 
+  [framework][17:13:17,840-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Faces Of China 
+  [framework][17:13:17,991-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Big Sports 3 
+  [framework][17:13:18,113-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Old Tyme Piano 
+  [framework][17:13:18,261-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Crazy Hands 
+  [framework][17:13:18,401-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Children's Comedy And Cartoon Circus 
+  [framework][17:13:18,540-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Western Song 
+  [framework][17:13:18,689-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Hip Hop 1 
+  [framework][17:13:18,822-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Ambient Chill Vol 4 World Cafe A 
+  [framework][17:13:18,959-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 T Voltando 
+  [framework][17:13:19,098-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 100张,最后一张唱片名称 Nada Quedar 
+  [framework][17:13:19,214-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 38张,最后一张唱片名称 Ludwig Van Beethoven, Concerto For Piano And Orchestra No. 3 In C Minor, Op. 37 And Concerto For Piano And Orchestra No. 4 In G Major Op. 38 
+  [framework][17:13:19,319-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:30)][INFO]:============== 共抓取唱片 《0》张 ============ 
+  [framework][17:13:44,597-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:13:44,612-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:13:46,729-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Solitude》 
+  [framework][17:13:46,859-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Plays Duke Ellington (Keepnews Collection)》 
+  [framework][17:13:47,068-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Jean Martinon – The Philips Legacy》 
+  [framework][17:13:47,216-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《White Christmas》 
+  [framework][17:13:47,344-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《순수 O.S.T》 
+  [framework][17:13:47,485-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Middle East》 
+  [framework][17:13:47,613-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Sports》 
+  [framework][17:13:47,743-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Rock Hard》 
+  [framework][17:13:47,874-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Let It Breathe 2》 
+  [framework][17:13:48,022-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Solo Piano - Popular Styles》 
+  [framework][17:13:48,190-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Pop Rocket 2》 
+  [framework][17:13:48,333-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Funky Jazzy Beats》 
+  [framework][17:13:48,470-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Urban Swagger》 
+  [framework][17:13:48,606-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Brazil 1》 
+  [framework][17:13:48,732-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Drumscapes Vol 2 Percussion World》 
+  [framework][17:13:48,871-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Jack That Body》 
+  [framework][17:13:49,003-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《100》 张,最后一张唱片名称 	《Dj Bat Club Version》 
+  [framework][17:13:49,122-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:34)][INFO]:共 《39》 张,最后一张唱片名称 	《Ludwig Van Beethoven, Concerto For Piano And Orchestra No. 3 In C Minor, Op. 37 And Concerto For Piano And Orchestra No. 4 In G Major Op. 38》 
+  [framework][17:13:49,231-cn.johnyu.springbootdemo01.fetcher.AlbumFetcherTest.testFetchAlbumListSync(AlbumFetcherTest.java:30)][INFO]:============== 共抓取唱片 《0》张 ============ 
+  [framework][17:16:53,585-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:16:53,602-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:16:55,600-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Young EL 》 
+  [framework][17:16:55,695-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Young Wil 》 
+  [framework][17:16:55,792-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Yuki Kawachi 》 
+  [framework][17:16:55,884-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Yung X 》 
+  [framework][17:16:55,978-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Yuuya Nishikawa 》 
+  [framework][17:16:56,069-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Z. Markovic 》 
+  [framework][17:16:56,161-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Zach Nelson 》 
+  [framework][17:16:56,249-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Zay Tudda 》 
+  [framework][17:16:56,344-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Zhanna Volkova 》 
+  [framework][17:16:56,436-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Zoe Santana 》 
+  [framework][17:16:56,532-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Zusano Azogue 》 
+  [framework][17:16:56,632-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Переход 》 
+  [framework][17:16:56,728-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 严老烈 》 
+  [framework][17:16:56,816-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Phillipp Pawlowski 》 
+  [framework][17:16:56,914-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Bare Hunter 》 
+  [framework][17:16:57,008-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 A.van 》 
+  [framework][17:16:57,104-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 박소은 》 
+  [framework][17:16:57,195-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 ARA 》 
+  [framework][17:16:57,285-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Trinna 》 
+  [framework][17:16:57,377-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 猎户座 》 
+  [framework][17:16:57,467-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 陈凤仙 》 
+  [framework][17:16:57,859-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Fabian Kranz 》 
+  [framework][17:16:57,948-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Ray Harrell 》 
+  [framework][17:16:58,042-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Lisbet Jagedal 》 
+  [framework][17:16:58,137-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Linda Kelm 》 
+  [framework][17:16:58,229-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 阿金 》 
+  [framework][17:16:58,325-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Sarah Bird 》 
+  [framework][17:16:58,418-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 DuPreez Strauss 》 
+  [framework][17:16:58,506-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Nikolai Loskutkin 》 
+  [framework][17:16:58,600-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Daniil Grishin 》 
+  [framework][17:16:58,686-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Young Money Yawn 》 
+  [framework][17:16:58,780-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Mc曹天宇 》 
+  [framework][17:16:58,872-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Are & Lawer 》 
+  [framework][17:16:58,964-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Wayne Snow 》 
+  [framework][17:16:59,054-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Ulryk 》 
+  [framework][17:16:59,148-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 李志尚 》 
+  [framework][17:16:59,248-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Eva Suk 》 
+  [framework][17:16:59,343-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 阿右 》 
+  [framework][17:16:59,429-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 MC李陆 》 
+  [framework][17:16:59,519-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Ensemble LPR 》 
+  [framework][17:16:59,612-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Nicolás Pasquet 》 
+  [framework][17:16:59,699-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 阿布 》 
+  [framework][17:16:59,788-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 쎄시봉 (如此美好) 》 
+  [framework][17:16:59,900-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Flo St. Jean 》 
+  [framework][17:16:59,998-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Josh Hanusiak 》 
+  [framework][17:17:00,091-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 RICKEY&RABBIE 》 
+  [framework][17:17:00,183-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Träblåsare från Göteborgs Symfoniorkester 》 
+  [framework][17:17:00,288-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Sibel Kose 》 
+  [framework][17:17:00,375-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 嫁入豪门 》 
+  [framework][17:17:00,514-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 80 》本页最后一个歌手：	《 Nina Weber 》 
+  [framework][17:17:00,602-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:36)][INFO]:本次抓取歌手的数量：《 54 》本页最后一个歌手：	《 梦雪 》 
+  [framework][17:17:00,711-cn.johnyu.springbootdemo01.fetcher.SingerFetcherTest.testFetchSingerListSync(SingerFetcherTest.java:32)][INFO]:==========抓取总数：《 4054 》============ 
+  [framework][17:20:41,468-org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:248)][INFO]:Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener] 
+  [framework][17:20:41,484-org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:177)][INFO]:Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@544fe44c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@31610302, org.springframework.test.context.support.DirtiesContextTestExecutionListener@71318ec4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@21213b92, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@a67c67e] 
+  [framework][17:20:45,331-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:1	美丽的神话2 
+  [framework][17:20:45,331-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:2	只要有你2 
+  [framework][17:20:45,331-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:3	拯救1 
+  [framework][17:20:45,331-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:4	留什么给你1 
+  [framework][17:20:45,331-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:5	你快回来1 
+  [framework][17:20:45,332-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:6	风往北吹1 
+  [framework][17:20:45,332-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:7	漂洋过海来看你 (Live)4 
+  [framework][17:20:45,332-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:8	相亲相爱 (Live)4 
+  [framework][17:20:45,332-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:9	不见不散1 
+  [framework][17:20:45,333-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:10	贝加尔湖畔2 
+  [framework][17:20:45,333-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:11	爱你爱不够1 
+  [framework][17:20:45,333-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:12	缘分的天空1 
+  [framework][17:20:45,333-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:13	红旗飘飘1 
+  [framework][17:20:45,334-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:14	I Believe1 
+  [framework][17:20:45,334-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:15	飞越的心1 
+  [framework][17:20:45,335-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:16	千秋1 
+  [framework][17:20:45,335-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:17	是否爱过我1 
+  [framework][17:20:45,337-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:18	跟你一辈子2 
+  [framework][17:20:45,337-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:19	我们都一样 (Live)2 
+  [framework][17:20:45,337-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:20	净土1 
+  [framework][17:20:45,337-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:21	命中注定2 
+  [framework][17:20:45,338-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:22	为江山1 
+  [framework][17:20:45,338-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:23	无愧于心1 
+  [framework][17:20:45,338-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:24	让梦冬眠2 
+  [framework][17:20:45,338-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:25	不灭的心1 
+  [framework][17:20:45,338-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:26	亲爱的孩子2 
+  [framework][17:20:45,338-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:27	新的天地1 
+  [framework][17:20:45,339-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:28	向往1 
+  [framework][17:20:45,339-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:29	空白格 (Live)4 
+  [framework][17:20:45,339-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:30	追寻1 
+  [framework][17:20:45,339-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:31	相亲相爱4 
+  [framework][17:20:45,340-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:32	谁的心忘了收1 
+  [framework][17:20:45,340-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:33	拯救 (Live)1 
+  [framework][17:20:45,340-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:34	风往北吹 (Live)1 
+  [framework][17:20:45,340-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:35	只要有你 (Live)2 
+  [framework][17:20:45,340-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:36	传奇1 
+  [framework][17:20:45,341-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:37	站起来4 
+  [framework][17:20:45,341-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:38	无愧于心1 
+  [framework][17:20:45,341-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:39	国际歌 (Live)4 
+  [framework][17:20:45,341-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:40	小哪咤 (TV Version)1 
+  [framework][17:20:45,341-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:41	你来不来2 
+  [framework][17:20:45,341-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:42	缘份的天空1 
+  [framework][17:20:45,341-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:43	燃烧1 
+  [framework][17:20:45,342-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:44	大秧歌序曲1 
+  [framework][17:20:45,342-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:45	也许在1 
+  [framework][17:20:45,342-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:46	爱很简单 (Live)2 
+  [framework][17:20:45,342-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:47	梨花又开放 (Live)2 
+  [framework][17:20:45,342-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:48	他一定很爱你 (Live)1 
+  [framework][17:20:45,342-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:49	给所有知道我名字的人 (Live)2 
+  [framework][17:20:45,343-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:50	无地自容 (Live)4 
+  [framework][17:20:45,343-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:51	承诺1 
+  [framework][17:20:45,343-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:52	留什么给你 (Live)1 
+  [framework][17:20:45,343-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:53	因为爱1 
+  [framework][17:20:45,343-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:54	因为有你1 
+  [framework][17:20:45,343-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:55	不见不散 (Live)2 
+  [framework][17:20:45,343-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:56	没完没了2 
+  [framework][17:20:45,343-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:57	可乐 (Live)1 
+  [framework][17:20:45,344-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:58	牵挂 (TV Version)2 
+  [framework][17:20:45,344-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:59	流沙 (Live)2 
+  [framework][17:20:45,344-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:60	拯救 (Live)1 
+  [framework][17:20:45,344-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:61	一路上有你 (Live)3 
+  [framework][17:20:45,344-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:62	活的美好1 
+  [framework][17:20:45,344-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:63	未来在手中1 
+  [framework][17:20:45,345-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:64	亲爱的孩子7 
+  [framework][17:20:45,345-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:65	只要有你2 
+  [framework][17:20:45,345-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:66	时间的远方1 
+  [framework][17:20:45,345-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:67	拯救 (Live)1 
+  [framework][17:20:45,345-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:68	美猴王1 
+  [framework][17:20:45,345-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:69	送别2 
+  [framework][17:20:45,345-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:70	留什么给你 (Live)1 
+  [framework][17:20:45,345-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:71	真情真美2 
+  [framework][17:20:45,346-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:72	爱是爱的结果2 
+  [framework][17:20:45,346-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:73	如果还有明天 (Live)4 
+  [framework][17:20:45,346-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:74	美丽的神话 (Live)3 
+  [framework][17:20:45,346-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:75	我祈祷1 
+  [framework][17:20:45,346-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:76	我们都是伤心人1 
+  [framework][17:20:45,346-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:77	时间不会还给她1 
+  [framework][17:20:45,346-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:78	味道 (Live)3 
+  [framework][17:20:45,346-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:79	宝贝1 
+  [framework][17:20:45,347-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:80	风往北吹 (Live)1 
+  [framework][17:20:45,347-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:81	婚誓2 
+  [framework][17:20:45,347-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:82	洗手歌2 
+  [framework][17:20:45,347-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:83	冠军1 
+  [framework][17:20:45,347-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:84	只要和你走下去2 
+  [framework][17:20:45,347-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:85	不放开的手1 
+  [framework][17:20:45,347-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:86	我在等你1 
+  [framework][17:20:45,347-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:87	若即若离1 
+  [framework][17:20:45,348-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:88	为什么我总是想起你 (TV Version)1 
+  [framework][17:20:45,348-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:89	旅途1 
+  [framework][17:20:45,348-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:90	为爱说抱歉1 
+  [framework][17:20:45,348-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:91	淡淡的忧1 
+  [framework][17:20:45,348-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:92	天香楼1 
+  [framework][17:20:45,348-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:93	只要有你一起唱1 
+  [framework][17:20:45,349-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:94	无地自容 (Live)1 
+  [framework][17:20:45,349-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:95	缘分天空 (Live)1 
+  [framework][17:20:45,349-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:96	一样的月光 (Live)3 
+  [framework][17:20:45,349-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:97	死了都要爱 (Live)2 
+  [framework][17:20:45,349-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:98	你快回来 (Live)1 
+  [framework][17:20:45,349-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:99	存在 (Live)1 
+  [framework][17:20:45,349-cn.johnyu.springbootdemo01.fetcher.SongFetcherTest.lambda$testFetchSongListSync$0(SongFetcherTest.java:31)][INFO]:100	无情的情书 (Live)3 
+  
