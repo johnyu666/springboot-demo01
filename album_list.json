@@ -1,0 +1,579 @@
+{ "albumlib": {
+    "data": {
+      "list": [
+        {
+          "album_id": 20184,
+          "album_mid": "001H25AR1n6MNl",
+          "album_name": "只愿一生爱一人",
+          "public_time": "1989-11-30",
+          "singers": [
+            {
+              "singer_id": 174,
+              "singer_mid": "004Be55m1SJaLk",
+              "singer_name": "张学友"
+            }
+          ],
+          "week": 48,
+          "year": 1989
+        },
+        {
+          "album_id": 86756,
+          "album_mid": "003sGhtn1JCZxF",
+          "album_name": "SALUTE",
+          "public_time": "1989-11-30",
+          "singers": [
+            {
+              "singer_id": 87,
+              "singer_mid": "0001v4XU1cZxPy",
+              "singer_name": "张国荣"
+            }
+          ],
+          "week": 48,
+          "year": 1989
+        },
+        {
+          "album_id": 2826866,
+          "album_mid": "004IQSfM0w6Nnd",
+          "album_name": "罗文精品十三",
+          "public_time": "1989-11-30",
+          "singers": [
+            {
+              "singer_id": 489,
+              "singer_mid": "0011E6iP3x2vRn",
+              "singer_name": "罗文"
+            }
+          ],
+          "week": 48,
+          "year": 1989
+        },
+        {
+          "album_id": 56218,
+          "album_mid": "0003us9z3j3lOH",
+          "album_name": "One More Night",
+          "public_time": "1989-11-30",
+          "singers": [
+            {
+              "singer_id": 16,
+              "singer_mid": "002tafxY1wVzqX",
+              "singer_name": "杜德伟"
+            }
+          ],
+          "week": 48,
+          "year": 1989
+        },
+        {
+          "album_id": 8079,
+          "album_mid": "0037tcd51YdAw3",
+          "album_name": "我是个很容易上瘾的人",
+          "public_time": "1989-12-01",
+          "singers": [
+            {
+              "singer_id": 4570,
+              "singer_mid": "000vlqvq39RUSQ",
+              "singer_name": "胡瓜"
+            }
+          ],
+          "week": 48,
+          "year": 1989
+        },
+        {
+          "album_id": 20635,
+          "album_mid": "001zrbM21njvGF",
+          "album_name": "卸妆",
+          "public_time": "1989-12-01",
+          "singers": [
+            {
+              "singer_id": 4572,
+              "singer_mid": "0038kbKS4HTe2Z",
+              "singer_name": "金素梅"
+            }
+          ],
+          "week": 48,
+          "year": 1989
+        }
+      ],
+      "tags": {
+        "area": [
+          {
+            "id": 1,
+            "name": "内地",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 0,
+            "name": "港台",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 3,
+            "name": "欧美",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 15,
+            "name": "韩国",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 14,
+            "name": "日本",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 4,
+            "name": "其他",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          }
+        ],
+        "company": [
+          {
+            "id": -1,
+            "name": "全部",
+            "area": -1,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 3,
+            "name": "华纳唱片",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 5,
+            "name": "索尼音乐",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 35,
+            "name": "环球唱片",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 2317,
+            "name": "杰威尔音乐有限公司",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 2,
+            "name": "英皇唱片",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 373,
+            "name": "金牌大风",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 10,
+            "name": "福茂唱片",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 8005,
+            "name": "宏声音乐",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 1110,
+            "name": "通力唱片",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 2067,
+            "name": "林暐哲音乐社",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 6,
+            "name": "滚石唱片",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 357,
+            "name": "相信音乐",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 8,
+            "name": "华研国际音乐",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 7870,
+            "name": "星娱音乐",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          }
+        ],
+        "genre": [
+          {
+            "id": -1,
+            "name": "全部",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 1,
+            "name": "流行",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 2,
+            "name": "古典",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 3,
+            "name": "爵士",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 36,
+            "name": "摇滚",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 22,
+            "name": "电子",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 27,
+            "name": "拉丁",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 21,
+            "name": "轻音乐",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 39,
+            "name": "世界音乐",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 34,
+            "name": "嘻哈",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 37,
+            "name": "原声",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 19,
+            "name": "乡村",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 20,
+            "name": "舞曲",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 33,
+            "name": "R&B",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 23,
+            "name": "民谣",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 28,
+            "name": "金属",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          }
+        ],
+        "type": [
+          {
+            "id": -1,
+            "name": "全部",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 0,
+            "name": "专辑",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 11,
+            "name": "EP",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 10,
+            "name": "Single",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 1,
+            "name": "演唱会",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 3,
+            "name": "动漫",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          },
+          {
+            "id": 4,
+            "name": "游戏",
+            "area": 0,
+            "start": 0,
+            "end": 0,
+            "tjreport": ""
+          }
+        ],
+        "year": [
+          {
+            "id": -1,
+            "name": "全部",
+            "area": 0,
+            "start": 0,
+            "end": 2062339199,
+            "tjreport": ""
+          },
+          {
+            "id": 17,
+            "name": "2018",
+            "area": 0,
+            "start": 1514736000,
+            "end": 1546185600,
+            "tjreport": ""
+          },
+          {
+            "id": 14,
+            "name": "2017",
+            "area": 0,
+            "start": 1483200000,
+            "end": 1514649600,
+            "tjreport": ""
+          },
+          {
+            "id": 7,
+            "name": "2016",
+            "area": 0,
+            "start": 1451577600,
+            "end": 1483113600,
+            "tjreport": ""
+          },
+          {
+            "id": 8,
+            "name": "2015",
+            "area": 0,
+            "start": 1420041600,
+            "end": 1451491200,
+            "tjreport": ""
+          },
+          {
+            "id": 9,
+            "name": "2014",
+            "area": 0,
+            "start": 1388505600,
+            "end": 1419955200,
+            "tjreport": ""
+          },
+          {
+            "id": 15,
+            "name": "2013",
+            "area": 0,
+            "start": 1356969600,
+            "end": 1388419200,
+            "tjreport": ""
+          },
+          {
+            "id": 16,
+            "name": "2012",
+            "area": 0,
+            "start": 1325347200,
+            "end": 1356883200,
+            "tjreport": ""
+          },
+          {
+            "id": 2,
+            "name": "一零年代",
+            "area": 0,
+            "start": 1262275200,
+            "end": 1577808000,
+            "tjreport": ""
+          },
+          {
+            "id": 3,
+            "name": "零零年代",
+            "area": 0,
+            "start": 946656000,
+            "end": 1262275200,
+            "tjreport": ""
+          },
+          {
+            "id": 4,
+            "name": "九十年代",
+            "area": 0,
+            "start": 631123200,
+            "end": 946656000,
+            "tjreport": ""
+          },
+          {
+            "id": 5,
+            "name": "八十年代",
+            "area": 0,
+            "start": 315504000,
+            "end": 631123200,
+            "tjreport": ""
+          },
+          {
+            "id": 6,
+            "name": "七十年代",
+            "area": 0,
+            "start": 0,
+            "end": 315504000,
+            "tjreport": ""
+          },
+          {
+            "id": 13,
+            "name": "六十年代",
+            "area": 0,
+            "start": 0,
+            "end": 31420800,
+            "tjreport": ""
+          }
+        ]
+      },
+      "total": 791,
+      "rec": 0,
+      "sort": 2
+    },
+    "code": 0
+  },
+  "code": 0,
+  "ts": 1547040277640
+}

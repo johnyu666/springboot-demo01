@@ -1,0 +1,26 @@
+
+-- 创建singer表
+create table singer(id bigint primary key auto_increment,singer_id bigint,mid varchar(20),name varchar(100),country varchar(20));
+-- 去重，将singer_id有重复的用掉
+-- delete from singer  where id not in(select * from (select  min(id)   from singer group by singer_id) s1);
+
+drop table if exists album;
+create table album(id bigint primary key auto_increment,album_id bigint, name varchar(160),mid varchar(20),public_time date);
+
+-- 查出所有album_id有重复的数据
+select id,album_id  from album  where id not in(select * from (select  min(id)   from album group by album_id) a1);
+-- 删除所有album_id有重复的数据
+delete from album  where id not in(select * from (select  min(id)   from album group by album_id) a1);
+
+
+-- 创建song表(字段：singers保存所有歌曲演唱者的信息)
+drop table if exists song;
+create table song(id bigint primary key auto_increment,song_id bigint,mid varchar(20),name varchar(200),duration int,album_id bigint,singers varchar(500));
+
+-- 查询及删除出所有song_id重复的数据
+select id,song_id  from song  where id not in(select * from (select  min(id)   from song group by song_id) s1);
+delete  from song  where id not in(select * from (select  min(id)   from song group by song_id) s1);
+
+
+
+

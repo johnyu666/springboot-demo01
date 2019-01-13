@@ -1,0 +1,143 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2013-06-20 20:28:17",
+        "index": 1,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 86932,
+          "albummid": "002DMdld1BQp0a",
+          "albumname": "学友 热",
+          "alertid": 2,
+          "belongCD": 4,
+          "cdIdx": 0,
+          "interval": 215,
+          "isonly": 1,
+          "label": "4611686018435776513",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 52520,
+            "tryend": 84557,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 174,
+              "mid": "004Be55m1SJaLk",
+              "name": "张学友"
+            }
+          ],
+          "size128": 3453800,
+          "size320": 8634196,
+          "size5_1": 0,
+          "sizeape": 23533314,
+          "sizeflac": 24009616,
+          "sizeogg": 5169933,
+          "songid": 4900010,
+          "songmid": "001vkidL3kKTDX",
+          "songname": "如果这都不算爱",
+          "songorig": "如果这都不算爱",
+          "songtype": 0,
+          "strMediaMid": "001vkidL3kKTDX",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "c0010Ar9KLM"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "132183",
+          "Fstatus": "1",
+          "Fvid": "c0010Ar9KLM"
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2009-06-27 00:00:00",
+        "index": 2,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 45403,
+          "albummid": "002nHrYA4KRGJM",
+          "albumname": "真爱",
+          "alertid": 2,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 277,
+          "isonly": 1,
+          "label": "4611686153723052033",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 86125,
+            "tryend": 116150,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 174,
+              "mid": "004Be55m1SJaLk",
+              "name": "张学友"
+            }
+          ],
+          "size128": 4447547,
+          "size320": 11069253,
+          "size5_1": 0,
+          "sizeape": 27117233,
+          "sizeflac": 28071436,
+          "sizeogg": 6126300,
+          "songid": 543977,
+          "songmid": "003QCk2S3o6gEC",
+          "songname": "一千个伤心的理由",
+          "songorig": "一千个伤心的理由",
+          "songtype": 0,
+          "strMediaMid": "003QCk2S3o6gEC",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      }
+    ],
+    "singer_id": "174",
+    "singer_mid": "004Be55m1SJaLk",
+    "singer_name": "张学友",
+    "total": 1062
+  },
+  "message": "succ",
+  "subcode": 0
+}
